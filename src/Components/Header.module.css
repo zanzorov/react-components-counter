@@ -1,0 +1,31 @@
+.logo img {
+    width: 50px;
+    height: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.list { 
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    color: #003399;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.logo {
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+    color: #F27C0F;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 39px;
+    font-weight: 700;
+}
